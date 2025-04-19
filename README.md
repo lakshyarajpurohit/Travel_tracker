@@ -2,7 +2,7 @@
 
 ## Overview
 
-Travel Tracker is a web application developed as part of "The Complete Web Development Bootcamp" by Angela Yu. This project leverages Node.js, Express, PostgreSQL, EJS, HTML, CSS, and JavaScript to provide users with an interactive experience where they can input a country name, and that country gets highlighted on a world map displayed on the web page.
+This project leverages Node.js, Express, PostgreSQL, EJS, HTML, CSS, and JavaScript to provide users with an interactive experience where they can input a country name, and that country gets highlighted on a world map displayed on the web page.
 
 ## Features
 
@@ -78,11 +78,4 @@ TRAVEL TRACKER
 3. **Track your travels**:
    Enter the name of a country you have visited to see it highlighted on the world map.
 
-## Acknowledgments
 
-- This project was created as part of "The Complete Web Development Bootcamp" by Angela Yu.
-- Special thanks to the course instructors and fellow students for their support and guidance.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
